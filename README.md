@@ -78,3 +78,15 @@ Useful for understanding the intuition behind clustering before applying it to i
 - `numpy`
 - `PIL` or `Pillow` (for image loading)
 - `imageio` (for GIF creation)
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork the repo, make changes, and submit a pull request!
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
